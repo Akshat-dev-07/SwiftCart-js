@@ -28,3 +28,6 @@ SwiftCart is a fully functional e-commerce web application built using HTML, CSS
 - Object-Oriented Programming (OOP)
 - Modular and reusable JavaScript components
 - Separation of concerns for scalability
+
+- #🌐 Live Demo
+- https://swift-cart-js.vercel.app/
